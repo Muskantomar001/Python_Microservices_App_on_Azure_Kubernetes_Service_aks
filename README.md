@@ -1,5 +1,8 @@
 **DEVOPS PROJECT: PYTHON_MICROSERVICES APPLICATION ON AZURE KUBERNETES SERVICES (AKS)**
 
+![image](https://github.com/Muskantomar001/Python_Microservices_App_on_Azure_Kubernetes_Service_aks/assets/65162584/efcebce2-d9b6-4a8e-b8b2-9a3b1f4d4172)
+
+
 **Prerequisites**
 
 Before you begin, ensure that the following prerequisites are met:
